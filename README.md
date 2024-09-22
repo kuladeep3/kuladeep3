@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuladeep3
-- 👀 I’m interested in Front end development ...
-- 🌱 I’m currently working as a react js developet turito
+- 👀 I’m interested in Full tack development ...
+- 🌱 I’m currently working as a Front end developer at Conscendo Technologies
 - 📫 How to reach me : kuladeepu1@gmail.com
 
 <!---
